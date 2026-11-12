@@ -1,0 +1,14 @@
+{
+  "name": "rede-carregamento",
+  "version": "1.0.0",
+  "description": "Ficha 3 - Rede de postos de carregamento (ExpressJS + Mongoose)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.9.0"
+  }
+}

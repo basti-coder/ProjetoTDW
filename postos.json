@@ -1,0 +1,26 @@
+[
+  {
+    "id": "PC-101",
+    "local": "Campus",
+    "potenciaKw": 22,
+    "disponivel": true,
+    "categoria": "publico",
+    "tipo": "AC"
+  },
+  {
+    "id": "PC-102",
+    "local": "Terminal",
+    "potenciaKw": 50,
+    "disponivel": false,
+    "categoria": "publico",
+    "tipo": "DC"
+  },
+  {
+    "id": "PC-103",
+    "local": "Parque Solar",
+    "potenciaKw": 11,
+    "disponivel": true,
+    "categoria": "privado",
+    "tipo": "AC"
+  }
+]
