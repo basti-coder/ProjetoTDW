@@ -1,5 +1,5 @@
 // Substitui a linha abaixo pelo teu modelo/tabela real de utilizadores (ex: Mongoose)
-import User from '../models/User.js'; // Atenção: pode precisar da extensão .js dependendo do teu package.json
+import User from '../Models/user.js';
 
 async function autenticar(req, res, next) {
     const authHeader = req.headers.authorization;
